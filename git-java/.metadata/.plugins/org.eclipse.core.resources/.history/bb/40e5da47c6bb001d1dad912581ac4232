@@ -1,0 +1,14 @@
+package ch15;
+
+public class SwitchCaseUpTest {
+
+	public static void main(String[] args) {
+
+		//java 14 부터는 Switch Expression이 지원된다.
+		//개선된 switch문은 break문을 사용하지 않아도 된다.
+		//화살표 case라벨, 다중 case라벨, switch연산식, yield 예약어 등의 기능이 추가되었다.
+		int month = 3;
+
+	}
+
+}
